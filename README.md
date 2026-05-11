@@ -31,3 +31,5 @@ This is a simple Testimonials Component project made using HTML and CSS.
 ## Author
 
 Rudra Prasad
+## Live Project URL
+https://rudraprasadsethy43498-create.github.io/testimonial-card/
